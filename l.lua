@@ -56,8 +56,8 @@ local theme = {
     textcolor = Color3.fromRGB(255, 255, 255),
     textborder = Color3.fromRGB(0, 0, 0),
     cursoroutline = Color3.fromRGB(10, 10, 10),
-    font = 1,
-    textsize = 14
+    font = 2,
+    textsize = 13
 }
 -- // Utility Functions
 do
